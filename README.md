@@ -1,2 +1,2 @@
 # GreatPizza
-Backend para Truextend
+Sólo Back-end para Truextend
